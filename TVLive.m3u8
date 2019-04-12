@@ -17,6 +17,16 @@ http://stream.mastvnet.com/MASTV/playlist.m3u8
 http://stream.mastvnet.com/MSTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门莲花卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ca/Lotus_Macau.png" group-title="澳門",澳門蓮花衛視
 rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Jade.png" group-title="香港",翡翠台
+rtmp://192.187.101.234/live/live01
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Pearl.png" group-title="香港",明珠台
+rtmp://192.187.101.234/live/live02
+#EXTINF:-1 tvg-id="" tvg-name="香港J2台" tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-J2.png" group-title="香港",J2
+rtmp://192.187.101.234/live/live03
+#EXTINF:-1 tvg-id="" tvg-name="ViuTVsix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="香港",ViuTVsix
+rtmp://192.187.101.234/live/live05
+#EXTINF:-1 tvg-id="" tvg-name="無線新聞台" tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-iNews.png" group-title="香港",無線新聞台
+rtmp://192.187.101.234/live/live06
 #EXTINF:-1 tvg-id="" tvg-name="TVBEntNews" tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Ent-News.png" group-title="香港",無線娛樂新聞台
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 #EXTINF:-1 tvg-id="" tvg-name="TVBFinNews" tvg-logo="https://www.tvbanywhere.com/pub/media/wysiwyg/channels/Channel_TVB_Finance_N_Information.jpg" group-title="香港",無線財經·資訊台(海外)
@@ -29,6 +39,10 @@ http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8#http://125.227.210.37:8899/VideoIn
 http://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="华视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="台灣;新聞",華視新聞台
 http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="非凡新闻台" tvg-logo="https://twg.skyking.com.tw/skyking/Icon/E058.png" group-title="台灣;新聞",非凡新聞台
+http://60.199.188.61/HLS/WG_USTV-N/index.m3u8#http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="三立新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="台灣;新聞",三立新聞台
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/hbo-1-555167.png" group-title="台灣|電影",HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="http://ku.90sjimg.com/element_pic/17/09/14/88a9391032b81bae78496f1f263487f7.jpg" group-title="中國",星空衛視
