@@ -15,6 +15,8 @@ http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 http://stream.mastvnet.com/MASTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="http://www.mstv.pro/style/logo.png" group-title="澳門",澳門衛視
 http://stream.mastvnet.com/MSTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门莲花卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ca/Lotus_Macau.png" group-title="澳門",澳門蓮花衛視
+rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
 #EXTINF:-1 tvg-id="" tvg-name="TVBEntNews" tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Ent-News.png" group-title="香港",無線娛樂新聞台
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 #EXTINF:-1 tvg-id="" tvg-name="TVBFinNews" tvg-logo="https://www.tvbanywhere.com/pub/media/wysiwyg/channels/Channel_TVB_Finance_N_Information.jpg" group-title="香港",無線財經·資訊台(海外)
@@ -23,6 +25,8 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playli
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港电影频道" tvg-logo="" group-title="點播",香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVBS 新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="台灣;新聞",TVBS新聞台
+http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8#http://125.227.210.37:8899/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="台灣;新聞",民視新聞台
 http://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="华视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="台灣;新聞",華視新聞台
