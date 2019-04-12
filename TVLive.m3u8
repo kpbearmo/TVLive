@@ -24,6 +24,10 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港电影频道" tvg-logo="" group-title="點播",香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="台灣;新聞",民視新聞台
-http://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+http://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="华视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="台灣;新聞",華視新聞台
 http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/hbo-1-555167.png" group-title="台灣|電影",HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="http://ku.90sjimg.com/element_pic/17/09/14/88a9391032b81bae78496f1f263487f7.jpg" group-title="中國",星空衛視
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
