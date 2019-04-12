@@ -15,3 +15,5 @@ http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 http://stream.mastvnet.com/MASTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="http://www.mstv.pro/style/logo.png" group-title="澳門",澳門衛視
 http://stream.mastvnet.com/MSTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FANTV" tvg-logo="http://flute.i-cable.com/demo/revamp_2017/fantv/20170220/images/fantv_logo2.png" group-title="香港",奇妙電視
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
