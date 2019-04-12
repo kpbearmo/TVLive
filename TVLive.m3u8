@@ -23,5 +23,5 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playli
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港电影频道" tvg-logo="" group-title="點播",香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="台灣|新聞",民視新聞台
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="台灣;新聞",民視新聞台
 http://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
