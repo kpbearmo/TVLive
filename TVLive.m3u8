@@ -38,9 +38,12 @@ http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HKOpenTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png" group-title="香港",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="http://ku.90sjimg.com/element_pic/17/09/14/88a9391032b81bae78496f1f263487f7.jpg" group-title="香港",星空衛視
-http://218.202.220.2:5000/nn_live.ts?id=STARTV#rtmp://58.200.131.2:1935/livetv/startv#http://222.207.48.30/hls/startv.m3u8
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#rtmp://58.200.131.2:1935/livetv/startv
+#http://222.207.48.30/hls/startv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzwt.jpg" group-title="香港",鳳凰中文台
-http://111.40.205.87/PLTV/88888888/224/3221225684/index.m3u8#http://117.169.120.217:8080/live/fhchinese/.m3u8
+http://111.40.205.87/PLTV/88888888/224/3221225684/index.m3u8
+#http://117.169.120.217:8080/live/fhchinese/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://www.pcne.tv/files/images/2017/our%20company/Phoenix_InfoNews.svg.png" group-title="香港",鳳凰資訊台
 http://live.italkdd.com/cds160/hls/channel002/channel002_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" group-title="香港",鳳凰香港台
@@ -48,21 +51,27 @@ http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰美洲" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png" group-title="香港",鳳凰美洲台
 http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
 #EXTINF:-1 tvg-id="tbc055" tvg-name="TVBS 新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="台灣;新聞",TVBS新聞台
-http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8#http://125.227.210.37:8899/VideoInput/play.ts
+http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
+#http://125.227.210.37:8899/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="台灣;新聞",民視新聞台
-http://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8 
+http://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="华视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="台灣;新聞",華視新聞台
 http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="http://upload.wikimedia.org/wikipedia/zh/thumb/3/3f/TTV_News_Channel_with_HD_2016.png/440px-TTV_News_Channel_with_HD_2016.png" group-title="台灣;新聞",台視新聞台
-http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8#http://live.italkdd.com/cds160/hls/channel011/channel011_2000.m3u8
+http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
+#http://live.italkdd.com/cds160/hls/channel011/channel011_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="非凡新闻台" tvg-logo="https://twg.skyking.com.tw/skyking/Icon/E058.png" group-title="台灣;新聞",非凡新聞台
-http://60.199.188.61/HLS/WG_USTV-N/index.m3u8#http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
+http://60.199.188.61/HLS/WG_USTV-N/index.m3u8
+#http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="台灣;新聞",三立新聞台
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="好莱坞电影台" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/16a0d4ca-8376-46ce-884c-77a514be0d19.png" group-title="台灣|電影",好萊塢電影台
 http://125.227.210.37:8909/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="东森电影台" tvg-logo="https://www.itsfun.com.tw/images/a0/7e/n5GcugjNzEWZxMmNjZjNjFTMlZTMwQ3Lt92Yuc2cthWcuw2cz5SMw9yL6MHc0RHa.jpg" group-title="台灣|電影",東森電影台
-http://125.227.210.37:8893/VideoInput/play.ts#http://122.146.68.116:4035/VideoInput/play.ts
+http://125.227.210.37:8893/VideoInput/play.ts
+#http://122.146.68.116:4035/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/hbo-1-555167.png" group-title="台灣|電影",HBO HD
 http://125.227.210.37:8895/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/hbo-1-555167.png" group-title="台灣|電影",HBO SD
