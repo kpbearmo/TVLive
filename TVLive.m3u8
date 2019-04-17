@@ -53,10 +53,11 @@ http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
 #EXTINF:-1 tvg-id="tbc055" tvg-name="TVBS 新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="台灣;新聞",TVBS新聞台
 http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
 #http://125.227.210.37:8899/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="台灣;新聞",民視新聞台(HD)
+#http://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="台灣;新聞",民視新聞台
-http://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8 
+http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="华视新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="台灣;新聞",華視新聞台
 http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="http://upload.wikimedia.org/wikipedia/zh/thumb/3/3f/TTV_News_Channel_with_HD_2016.png/440px-TTV_News_Channel_with_HD_2016.png" group-title="台灣;新聞",台視新聞台
